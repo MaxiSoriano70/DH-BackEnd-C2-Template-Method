@@ -1,0 +1,11 @@
+
+Ä
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8¯œÉÁó1J$615ed27e-a131-48a6-b828-e0662a7c81ab
+‚
+java:S1128":Remove this unused import 'mascotas.backend.model.Canino'.(¥¾Ë¦üÿÿÿÿ8îœÉÁó1J$6b7b251e-66c2-4410-bb06-6f1911f0fd56
+ƒ
+java:S1128";Remove this unused import 'mascotas.backend.model.Especie'.(÷„Èûÿÿÿÿ8ğœÉÁó1J$015312eb-02c7-433a-9541-b0a4bb46f0f4
+|
+java:S1128":Remove this unused import 'mascotas.backend.model.Felino'.(ŠÛİ8ñœÉÁó1J$43c94612-33fe-4938-899a-5801caed5b5d
+~
+java:S1128";Remove this unused import 'mascotas.backend.model.Mascota'.(àÔ€Ş8òœÉÁó1J$b4499360-f89a-450e-8e61-3494e3688c1a

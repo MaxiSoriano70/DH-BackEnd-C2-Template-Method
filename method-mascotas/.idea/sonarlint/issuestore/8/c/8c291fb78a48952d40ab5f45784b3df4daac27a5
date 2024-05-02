@@ -1,0 +1,14 @@
+
+²
+java:S1319_"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ë¶÷V8†âı¿ó1J$913c8694-458f-49d0-a35e-d602305a8672
+¶
+java:S1319c"sThe type of "vacunasAntirrabicas" should be an interface such as "List" rather than the implementation "ArrayList".(Îƒôá8‡âı¿ó1J$51ca64a6-cd46-4f3c-89df-0412c3dd7256
+³
+java:S1319g"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(…–í8ˆâı¿ó1J$a29b6e40-6b48-4058-8e83-4c9f391dd63f
+¸
+java:S1319k"vThe type of "vacunasDesparacitarias" should be an interface such as "List" rather than the implementation "ArrayList".(Íü®r8‰âı¿ó1J$2de1a5ed-263c-45cb-bb93-cbdc2caa810a
+
+java:S5993"9Change the visibility of this constructor to "protected".(…éÇ²ıÿÿÿÿ8à†ø¿ó1J$17e76460-002f-40c7-addc-f0a01d960ce0
+ˆ	java:S107"AConstructor has 8 parameters, which is greater than 7 authorized.(…éÇ²ıÿÿÿÿ8ã†ø¿ó1J$c7b2922c-f8d6-4fc0-9df0-2e1b873473a5
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ƒê©Áó1

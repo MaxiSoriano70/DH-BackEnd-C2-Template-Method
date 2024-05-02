@@ -1,0 +1,30 @@
+@startuml
+abstract class Mascota{
+    - nombre : String
+    - especie : Emun
+    - raza : String
+    - color : String
+    - sexo : boolean
+    - esterilizado : boolean
+    - peso : double
+    - domicilio : String
+    - vacunasAntirrabicas : Array<List>
+    - vacunasDesparacitarias : Array<List>
+}
+
+class Canino{
+    - vacunasCaninos : Array<List>
+}
+
+class Felino{
+    - vacunasFelinos : Array<List>
+}
+
+class Veterinario{
+    + colocarVacuna(Mascota mascota, Vacuna vacuna)
+}
+
+Canino -u-|> Mascota
+Felino -u-|> Mascota
+Mascota -l-> Veterinario
+@enduml
